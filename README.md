@@ -10,10 +10,8 @@ This iPhone app provides daily doses of inspiration through famous and motivatio
 - **Display Quotes**: Shows the quote and author in a clean and minimalistic UI.
 - **Auto-Update**: Quotes refresh automatically, no user interaction required.
 
-## Screenshots
-Include a few screenshots of your app here to showcase its interface and functionality. Replace the following placeholder paths with actual image URLs from your project repository.
-- ![Home Screen](path/to/home_screen.png)
-- ![Quote Display](path/to/quote_display.png)
+## Loom
+https://www.loom.com/share/0dd9267b9b3347709d13d4664c18aea2
 
 
 ## How It Works
