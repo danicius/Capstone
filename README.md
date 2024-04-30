@@ -10,9 +10,14 @@ This iPhone app provides daily doses of inspiration through famous and motivatio
 - **Display Quotes**: Shows the quote and author in a clean and minimalistic UI.
 - **Auto-Update**: Quotes refresh automatically, no user interaction required.
 
-## Loom
-https://www.loom.com/share/0dd9267b9b3347709d13d4664c18aea2
+The following functionality is completed:
 
+- [X] App has a capabiltiy to take a picture
+- [X] App has a gallery that presents new quote and a picture by user 
+
+## Loom
+
+https://www.loom.com/share/4a491df30cbf4bb8916ae6484e310cd4
 
 ## How It Works
 The app makes use of the `QuoteService` to handle API requests to Quotable:
@@ -37,6 +42,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
+https://www.loom.com/share/0dd9267b9b3347709d13d4664c18aea2
 
 
 #App I like so far is the picture progress/ inspirtional quote app so far
